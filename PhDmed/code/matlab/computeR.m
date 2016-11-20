@@ -1,5 +1,5 @@
 function R = computeR(x,y,z,p,q,I0)
-%focal length is given
+%focal length ios given
 %albedo assumed 1
 % assume 1 light sourse at position l1 TODO:get using Macbeth chart
 l1=[10,12,0];
